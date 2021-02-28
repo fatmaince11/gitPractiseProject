@@ -9,6 +9,9 @@ public class Class1 {
 	System.out.println("Second commit");
 		
 		System.out.println("Today is Sunday");
+		
+		System.out.println("Tomorrow is Monday");
+		
 	}
 
 }
