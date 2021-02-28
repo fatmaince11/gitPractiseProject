@@ -7,6 +7,8 @@ public class Class1 {
 		System.out.println("Hello world from Fatma");
 
 	System.out.println("Second commit");
+		
+		System.out.println("Today is Sunday");
 	}
 
 }
