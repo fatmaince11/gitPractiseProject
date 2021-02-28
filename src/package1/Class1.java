@@ -12,6 +12,7 @@ public class Class1 {
 		
 		System.out.println("Tomorrow is Monday");
 		
+		System.out.println("Tomorrow is a holiday");
 	}
 
 }
