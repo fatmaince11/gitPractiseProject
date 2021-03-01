@@ -27,5 +27,7 @@ public class Class1 {
         
         System.out.println("Feature Branch2");
         
+        System.out.println("Master Branch");
+        
 }
 }
