@@ -6,7 +6,7 @@ public class Class1 {
 		
 		System.out.println("Hello world from Dundar");
 
-	        System.out.println("Second commit");
+	    System.out.println("Second commit");
 		
 		System.out.println("Today is Sunday");
 		
@@ -15,6 +15,8 @@ public class Class1 {
 		System.out.println("Tomorrow is play day");
 		
 		System.out.println("Yesterday was Saturday");
+		
+		System.out.println("I do not expect any conflict");
 	}
 
 }
