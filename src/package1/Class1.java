@@ -15,6 +15,8 @@ public class Class1 {
 		System.out.println("Tomorrow is play day");
 		
 		System.out.println("Yesterday was Saturday");
+		
+		System.out.println("I do not know that i will have any conflict")
 	}
 
 }
