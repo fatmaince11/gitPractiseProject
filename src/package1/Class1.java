@@ -6,7 +6,7 @@ public class Class1 {
 		
 		System.out.println("Hello world from Dundar");
 
-	    System.out.println("Second commit");
+	        System.out.println("Second commit");
 		
 		System.out.println("Today is Sunday");
 		
